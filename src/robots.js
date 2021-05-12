@@ -43,9 +43,9 @@ export const robots = [
   },
   {
     id: 8,
-    name: 'Nicholas Runolfsdottir V',
-    username: 'Maxime_Nienow',
-    email: 'Sherwood@rosamond.me'
+    name: 'Tokoni Dogubo',
+    username: 'dogubot',
+    email: 'dogubot@rosamond.me'
   },
   {
     id: 9,
